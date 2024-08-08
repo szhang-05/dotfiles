@@ -1,4 +1,4 @@
-call plug#begin()       " vim-plug plugins will be downloaded there"
+call plug#begin()                       " vim-plug plugins will be downloaded there"
 Plug 'bluz71/vim-moonfly-colors'
 Plug 'vim-airline/vim-airline'          " nice colored bar the the bottom of the file
 Plug 'tpope/vim-fugitive'               " git versioning and bar
