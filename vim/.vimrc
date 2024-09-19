@@ -6,6 +6,7 @@ Plug 'sheerun/vim-polyglot'             " syntax highlightning for different lan
 Plug 'ervandew/supertab'                " tab autocomplete
 Plug 'jiangmiao/auto-pairs'             " auto close brackets
 Plug 'bfrg/vim-cpp-modern'
+Plug 'dense-analysis/ale'
 call plug#end()                         " vim-plugs should not be declared below this."=====================================
 
 syntax on
